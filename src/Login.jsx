@@ -29,7 +29,9 @@ const Login = () => {
 					alignItems: "center",
 				}}
 			>
-				<h1>Login Form</h1>
+				<Typography variant="h4" sx={{ fontWeight: "bold" }}>
+					Login Form
+				</Typography>
 			</div>
 
 			<TextField
